@@ -2,6 +2,7 @@
 TECHNICAL REPORT FOR TIME SERIES ANALYSIS.
 
 TASK-1: KEY INSIGHTS OF THE DATA
+
 Insight 1:  
 Checked the given Time series data is stationary data or non stationary data 
 Used Test : ADF Test ( Augmented Dickey Fuller Test) using library -statsmodels.tsa.stattools form that import adfuller module
